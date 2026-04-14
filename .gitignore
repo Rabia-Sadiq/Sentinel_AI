@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables - KABHI UPLOAD MAT KARNA
+.env
+*.env
+
+# Logs
+logs/simulated_blocks.log
+logs/*.log
+
+# VS Code
+.vscode/
+
+# Python egg
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
